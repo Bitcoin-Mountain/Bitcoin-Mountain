@@ -1,2 +1,3 @@
-# Bitcoin-Mountain
-Monthly Meetups In Yarra Ranges, Australia
+# Bitcoin Mountain
+Monthly Meetups To Help The Yarra Ranges Community Connect To The Bitcoin Network
+
